@@ -1,0 +1,6 @@
+Jogo de Damas
+
+Regras:
+
+1 - cada peça faz apenas uma movimento, não sendo possível comer, por exemplo, duas peças adversárias.
+2 - é válido comer para trás.
